@@ -42,12 +42,12 @@ export default function HomePage() {
         <h2 className="mx-auto mt-12 max-w-xl text-lg sm:text-gray-400  text-gray-500 leading-7">
           Help test early-stage experiments to shape the future of technology, together.
         </h2>
-        <Link
+        <a
           className="bg-blue-600 rounded-xl text-white font-medium px-4 py-3 sm:mt-10 mt-8 hover:bg-blue-500 transition"
-          href="/dream"
+          href="mailto:tanmoygangulyofficial@outlook.com"
         >
           Join Waitlist
-        </Link>
+        </a>
         <div className="flex justify-between items-center w-full flex-col sm:mt-10 mt-6">
           <div className="flex flex-col space-y-10 mt-4 mb-16">
             <div className="flex sm:space-x-8 sm:flex-row flex-col">
